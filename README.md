@@ -3,7 +3,11 @@
 - 🌱 I’m currently learning HTML5, CSS3 e JavaScript
 - 📫 How to reach me 
 
-<!---
-JvFern4ndes/JvFern4ndes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+  <a href="https://www.instagram.com/quant.tradingbr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jvfernandes.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-fernandes-ventura-436886228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCLgls7O2LwEjpOLb0Zd09XA" target="_blank" >
+    <img src="https://img.shields.io/badge/-Youtube-%23E4405F?style=for-the-badge&logo=Youtube&logoColor=white" target="_blank">
+ </a>
+</div>
