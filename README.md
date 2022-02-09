@@ -1,4 +1,4 @@
-## Olá! Eu me chamo João Victor!!
+## 👋 Hi, I’m João Victor Fernandes
 
 - 👋 Hi, I’m João Victor Fernandes
 - 🐱‍🏍 Currently i work as a machine operator
