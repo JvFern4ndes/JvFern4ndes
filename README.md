@@ -1,6 +1,7 @@
 - 👋 Hi, I’m João Victor Fernandes
-- 👀 I’m interested in Desenvolvimento Web e Mobile
-- 🌱 I’m currently learning HTML5, CSS3 e JavaScript
+- 🐱‍🏍 Currently i work as a machine operator
+- 👀 I’m interested in Desenvolvimento Web and Mobile
+- 🌱 I’m currently learning HTML5, CSS3 and JavaScript
 - 📫 How to reach me 
 
 <div>
