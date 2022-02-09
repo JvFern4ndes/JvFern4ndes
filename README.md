@@ -1,6 +1,5 @@
 ## 👋 Hi, I’m João Victor Fernandes
 
-- 👋 Hi, I’m João Victor Fernandes
 - 🐱‍🏍 Currently i work as a machine operator
 - 👀 I’m interested in Desenvolvimento Web and Mobile
 - 🌱 I’m currently learning HTML5, CSS3 and JavaScript
