@@ -1,4 +1,4 @@
-## <div align="center">👋 Hi, I’m João Victor Fernandes</div><br>
+## <div align="center">👋 Hi, I’m João Victor</div><br>
 
   <div align="center">
 - 🐱‍🏍 Currently i work as a machine operator <br>
