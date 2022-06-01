@@ -2,7 +2,7 @@
 
   <div align="center">
 - 🐱‍🏍 Currently i work as a machine operator <br>
-- 👀 I’m interested in Desenvolvimento Web and Mobile <br>
+- 👀 I’m interested in Web Development and Mobile <br>
 - 🌱 I’m currently learning HTML5, CSS3 and JavaScript <br>
 - 📫 How to reach me
   
