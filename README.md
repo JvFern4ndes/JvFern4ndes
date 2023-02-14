@@ -1,4 +1,4 @@
-## <div align="center">👋 Hi, I’m João Victor Fernandes Ventura</div>
+## <div align="center">👋 Hi, I’m João Victor</div>
 
 <br>
 
