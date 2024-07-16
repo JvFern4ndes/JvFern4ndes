@@ -3,8 +3,8 @@
 <br>
 
   <div align="center">
-   - 🥇 I'm a Web and Mobile developer <br>
-   - 🎯 I'm currently learning and perfecting myself in Javascript, React and React Native <br>
+   - 🥇 I'm a Fullstack Developer <br>
+   - 🎯 I am currently specializing in Blockchain development and all other technologies related to web3 <br>
    - 📫 How to reach me
   
 <br>
