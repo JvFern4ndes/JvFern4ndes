@@ -13,7 +13,7 @@
   <a href = "mailto:jvfernandes.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-fernandes-ventura-436886228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
 
-  [![trophy](https://github-profile-trophy.vercel.app/JvFern4ndes=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=JvFern4ndes)](https://github.com/JvFern4ndes/github-profile-trophy)
   
   ##
 
