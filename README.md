@@ -38,8 +38,6 @@
 	  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JvFern4ndes&theme=github-dark&radius=13&order=55" height="365" alt="João Victor's activity graph" />
 </div>
 
-<br>
-
 ##
   
 <div align="center">
