@@ -1,21 +1,32 @@
-## <div align="center">👋 Hi, I’m João Victor</div>
+<div align="center">👋 Hi, I’m João Victor</div>
+
+##
+
+<div align="center">
+	- 🥇 I'm a Fullstack Developer <br>
+	- 🎯 I am currently specializing in Blockchain development and all other technologies related to web3
+	<br>
+	<br>
+	- 📫 How to reach me
+   	<br>
+	<br>
+	<a href = "mailto:jvfernandes.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+	<a href="https://www.linkedin.com/in/jo%C3%A3o-victor-fernandes-ventura-436886228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+##
 
 <br>
 
-  <div align="center">
-   - 🥇 I'm a Fullstack Developer <br>
-   - 🎯 I am currently specializing in Blockchain development and all other technologies related to web3 <br>
-   - 📫 How to reach me
-  
-<br>
-<br>
-  
-  <a href = "mailto:jvfernandes.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-fernandes-ventura-436886228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
+<div align="center">
+  <a href="https://github.com/JvFern4ndes/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=JvFern4ndes&align=center">
+  </a>
+</div>
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=JvFern4ndes&title=-Issues,-PullRequest,-Reviews)](https://github.com/JvFern4ndes/github-profile-trophy)
-  
-  ##
+##
+
+<br>
 
 <div align="center">
   <a href="https://github.com/JvFern4ndes">
