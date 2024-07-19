@@ -18,6 +18,14 @@
 
 <br>
 
+<div align="center">
+  <a href="https://github.com/JvFern4ndes">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JvFern4ndes&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvFern4ndes&layout=compact&langs_count=7&theme=white"/>
+</div><br>
+
+<br>
+
 <div align="center" style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;>
   <a href="https://github.com/JvFern4ndes/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=JvFern4ndes&title=-Issues,-PullRequest,-Reviews&column=5">
@@ -25,14 +33,6 @@
 </div>
 
 ##
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/JvFern4ndes">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JvFern4ndes&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvFern4ndes&layout=compact&langs_count=7&theme=white"/>
-</div><br>
   
 <div align="center">
   	<img alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
