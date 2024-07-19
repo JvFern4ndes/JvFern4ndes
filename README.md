@@ -41,7 +41,7 @@
 	  <img src="https://github-readme-stats-beige-theta-61.vercel.app/api?username=JvFern4ndes&show_icons=true&theme=dark&include_all_commits=true" alt="João Victor" height="150" />
 	  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JvFern4ndes&theme=dark&hide_border=false" alt="João Victor's Profile Summary" height="150" />
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvFern4ndes&layout=compact&langs_count=7&theme=dark" alt="João Victor" height="150" />
-	  <img width="600" src="https://github-readme-activity-graph.vercel.app/graph?username=JvFern4ndes&theme=github-dark&radius=13&order=55" height="150" alt="João Victor's activity graph" />
+	  <img width="600" src="https://github-readme-activity-graph.vercel.app/graph?username=JvFern4ndes&theme=github-dark&radius=13&order=55" height="350" alt="João Victor's activity graph" />
 </div>
 
 ##
