@@ -16,6 +16,12 @@
 	<a href="https://www.linkedin.com/in/jo%C3%A3o-victor-fernandes-ventura-436886228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jvFern4ndes&style=for-the-badge&color=orange"/>
+</div>
+
 ##
 
 <div align="center" style=background-color: #f0f0f0; padding: 10px; border-radius: 5px;>
