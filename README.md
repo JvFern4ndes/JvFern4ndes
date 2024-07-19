@@ -22,7 +22,7 @@
 	<h3> GitHub Trophies 🏆</h3>
 	<br>
   	<a href="https://github.com/JvFern4ndes/github-profile-trophy">
-    		<img src="https://github-profile-trophy.vercel.app/?username=JvFern4ndes&title=-Issues,-PullRequest,-Reviews&column=5">
+    		<img src="https://github-profile-trophy.vercel.app/?username=JvFern4ndes&theme=darkhub&title=-Issues,-PullRequest,-Reviews&column=5">
   	</a>
 </div>
 
