@@ -18,9 +18,9 @@
 
 <br>
 
-<div align="center">
+<div align="center" style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;>
   <a href="https://github.com/JvFern4ndes/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=JvFern4ndes&align=center">
+    <img src="https://github-profile-trophy.vercel.app/?username=JvFern4ndes&title=-Issues,-PullRequest,-Reviews&column=5">
   </a>
 </div>
 
