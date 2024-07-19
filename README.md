@@ -24,7 +24,7 @@
 
 ##
 
-<div align="center" style=background-color: #f0f0f0; padding: 10px; border-radius: 5px;>
+<div align="center">
 	<h3> GitHub Trophies 🏆</h3>
 	<br>
   	<a href="https://github.com/JvFern4ndes/github-profile-trophy">
