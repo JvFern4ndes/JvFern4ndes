@@ -20,10 +20,14 @@
 
 <div align="center">
   <a href="https://github.com/JvFern4ndes">
-	  <p><img align="left" src="https://github-readme-stats-beige-theta-61.vercel.app/api?username=JvFern4ndes&show_icons=true&theme=dark&include_all_commits=true" alt="João Victor" height="150" /></p>
-	  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JvFern4ndes&theme=dark&hide_border=false" alt="João Victor's Profile Summary" height="150" /></p>
-	  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvFern4ndes&layout=compact&langs_count=7&theme=dark" alt="João Victor" height="150em"/></p>
-</div><br>
+	  <img src="https://github-readme-stats-beige-theta-61.vercel.app/api?username=JvFern4ndes&show_icons=true&theme=dark&include_all_commits=true" alt="João Victor" height="150" />
+	  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JvFern4ndes&theme=dark&hide_border=false" alt="João Victor's Profile Summary" height="150" />
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvFern4ndes&layout=compact&langs_count=7&theme=dark" alt="João Victor" height="150em" />
+</div>
+
+<br>
+
+##
 
 <br>
 
