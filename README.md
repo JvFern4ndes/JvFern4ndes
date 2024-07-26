@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-	- 🥇 I'm a Fullstack Developer <br>
+	- 🥇 I'm a Fullstack Software Developer <br>
 	- 🎯 I am currently specializing in Blockchain development and all other technologies related to web3
 	<br>
 	<br>
